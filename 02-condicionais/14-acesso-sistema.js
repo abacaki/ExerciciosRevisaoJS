@@ -9,3 +9,11 @@
 
 // Escreva sua solução abaixo:
 
+let usuarioAtivo = true;
+let senhaCorreta = true;
+
+if (usuarioAtivo == true && senhaCorreta == true) {
+    console.log("Acesso permitido")
+} else {
+    console.log("Acesso negado");
+}

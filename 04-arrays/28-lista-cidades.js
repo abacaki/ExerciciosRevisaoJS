@@ -4,3 +4,6 @@
 
 // Escreva sua solução abaixo:
 
+let cidades = ["São Paulo", "Rio de Janeiro", "Salvador", "Brasília", "Foz do Iguaçu"];
+
+console.log(cidades);

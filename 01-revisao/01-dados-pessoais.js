@@ -7,3 +7,8 @@
 
 // Escreva sua solução abaixo:
 
+const nome = "Yuri";
+const curso = "Desenvolvimento de Sistemas";
+const modulo = "Back-End";
+
+console.log(`Meu nome é ${nome}, sou estudante do curso ${curso} e estou no módulo de ${modulo}.`);
